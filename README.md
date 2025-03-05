@@ -1,5 +1,5 @@
 # Image-classification-on-Cifar-10-dataset
-Assignment 1 for Computer vision course using cifar10 apply image classification models like KNN, logistic regression, LineaSVC and SVC with RBF kernel
+Assignment using cifar10 apply image classification models like KNN, logistic regression, LineaSVC and SVC with RBF kernel
  Overview This Project to know the basics of data loading and preparation using Cifar10 dataset implemented with different classification model build KNN from Scratch and try different modes of SVM and determine the best performance.
 
 ## DataSet
